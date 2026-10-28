@@ -1,11 +1,17 @@
-<div align="center">
+# Z-CORE OS v1.2
+### L'IA Souveraine - Zéro Dépendance - Zero Trust Natif
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+[[Sovereign](https://img.shields.io/badge/Zero%20Trust-Natif-black)]()
+[[License](https://img.shields.io/badge/License-MIT-green)]()
+[[Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-blue)]()
+[[Cost](https://img.shields.io/badge/Cost-0%24%2Fmois-red)]()
 
-  <h1>Built with AI Studio</h2>
+## MISSION
+Remplacer Azure/AWS avec 3 fichiers Python.
+Tourne sur Android Termux. 100% Local. Air-Gap. 0$ à vie.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## LE STACK - 3 MODULES
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### 1. BenchmarkEngine.py
+Preuve que Z-CORE écrase le cloud.
+python benchmark.py
